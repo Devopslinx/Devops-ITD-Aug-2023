@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 
 # This will install Java and Jenkins only in Ubuntu 
 # To install directly in any ubuntu ec2, run below command 
